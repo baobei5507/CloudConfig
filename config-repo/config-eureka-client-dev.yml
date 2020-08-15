@@ -3,3 +3,6 @@ data:
   user:
     username: eureka-client-user
     password: 12346578
+helloresponse:
+  name: lihua
+  age: 23
