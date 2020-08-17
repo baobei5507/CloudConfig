@@ -4,5 +4,5 @@ data:
     username: eureka-client-user
     password: 12346578
 helloresponse:
-  name: lihua
+  name: xiaoming
   age: 23
